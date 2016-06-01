@@ -1,0 +1,29 @@
+body {
+
+  overflow-x: hidden;
+  background: url(../imagen/fondo.jpg) no-repeat; }
+
+.cajaGrande {
+  color: #CFD3D4;
+  padding: 50px;
+  font-size: 2.5em;
+  font-family: fantasy;
+  height: 200px; }
+p{
+  font-size: 1em;
+  text-align: left;
+  
+}
+.modal-content{
+  background-color: #02072B;
+}
+div {
+  color: #CFD3D4;
+  padding-top: 3%; }
+span.hora-ciudadPais{
+  font-size: 20px;
+}
+.btn-lg {
+    border-radius: 40px;
+    color: #434377;
+}
